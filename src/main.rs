@@ -68,7 +68,7 @@ fn update_label(direction: (bool, u32), text: Label) {
     } else {
         result += "-  .\n";
     }
-    
+    // Label Update
 }
 
 fn left_but_click () {
