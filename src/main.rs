@@ -71,6 +71,10 @@ fn update_label(direction: (bool, u32), text: Label) {
     
 }
 
+fn left_but_click () {
+    //Testing Button Edit
+}
+
 fn build_ui(app: &Application) {
     let forward_but = Button::builder()
         .label("Move Forward")
