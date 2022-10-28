@@ -68,7 +68,7 @@ fn update_label(direction: (bool, u32), text: Label) {
     } else {
         result += "-  .\n";
     }
-    
+    // Label Update
 }
 
 fn build_ui(app: &Application) {
